@@ -12,16 +12,15 @@ Este es un proyecto desarrollado con **React** que utiliza **Hooks** para maneja
 
 ---
 
-## **Estructura del Proyecto**
+## **Tecnologías Usadas**
+Este proyecto ha sido desarrollado con las siguientes tecnologías:
 
-hospital-hooks/ │── src/ │ ├── components/
-# Componentes reutilizables │ │ ├── PatientForm.jsx
-# Formulario de pacientes con useState │ │ ├── DoctorsList.jsx
-# Lista de doctores obtenida con useEffect │ ├── hooks/
-# Hooks personalizados │ │ ├── useAuth.js
-# Hook para autenticación de usuario │ ├── styles.css
-# Archivo de estilos globales │ ├── App.jsx
-# Componente principal de la aplicación │ ├── index.jsx
-# Punto de entrada de React │── 
-- README.md # Documentación del proyecto │──
-- package.json # Dependencias del proyecto │── vite.config.js # Configuración de Vite
+- **React** (Vite) - Framework de JavaScript para la construcción de interfaces de usuario.
+- **React Hooks (`useState`, `useEffect`)** - Manejo del estado y efectos secundarios.
+- **JavaScript (ES6+)** - Lenguaje de programación principal.
+- **CSS** - Estilos para la interfaz de usuario.
+- **Git & GitHub** - Control de versiones y almacenamiento del código.
+- **JSONPlaceholder API** - API de prueba para obtener datos de doctores.
+
+
+### Carlos Farias Galdames
