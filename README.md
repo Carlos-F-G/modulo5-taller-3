@@ -14,4 +14,14 @@ Este es un proyecto desarrollado con **React** que utiliza **Hooks** para maneja
 
 ## **Estructura del Proyecto**
 
-hospital-hooks/ │── src/ │ ├── components/ # Componentes reutilizables │ │ ├── PatientForm.jsx # Formulario de pacientes con useState │ │ ├── DoctorsList.jsx # Lista de doctores obtenida con useEffect │ ├── hooks/ # Hooks personalizados │ │ ├── useAuth.js # Hook para autenticación de usuario │ ├── styles.css # Archivo de estilos globales │ ├── App.jsx # Componente principal de la aplicación │ ├── index.jsx # Punto de entrada de React │── README.md # Documentación del proyecto │── package.json # Dependencias del proyecto │── vite.config.js # Configuración de Vite
+hospital-hooks/ │── src/ │ ├── components/
+# Componentes reutilizables │ │ ├── PatientForm.jsx
+# Formulario de pacientes con useState │ │ ├── DoctorsList.jsx
+# Lista de doctores obtenida con useEffect │ ├── hooks/
+# Hooks personalizados │ │ ├── useAuth.js
+# Hook para autenticación de usuario │ ├── styles.css
+# Archivo de estilos globales │ ├── App.jsx
+# Componente principal de la aplicación │ ├── index.jsx
+# Punto de entrada de React │── 
+- README.md # Documentación del proyecto │──
+- package.json # Dependencias del proyecto │── vite.config.js # Configuración de Vite
